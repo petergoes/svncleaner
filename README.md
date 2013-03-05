@@ -9,6 +9,7 @@ Usage
 <pre>
 |--dropfolder/
 |	|__ your-project-folder/
+|	|__ drop-your-folder-here.txt
 |--README.MD
 |--svncleaner.command
 </pre>
